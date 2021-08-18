@@ -1,10 +1,24 @@
-# Stark Innovations 
+# *Stark Userbot* 
 
-> Terminal
-```
-File : Stark-UserBot 
-Progress : 20%
+<p  align="center"> <img src="https://github.com/stark-innovations/Stark-Userbot/blob/main/logo.png">
 
-> Under Coding
-```
+
+> A Pluggable Telegram Userbot
+
 ---
+  
+```
+> File : Stark-UserBot
+> Progress : 20%  
+  
+
+```
+
+## <img  src= "https://github-readme-stats.vercel.app/api/pin?username=stark-innovations&repo=Stark-userbot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515">
+
+
+### Stargazers
+
+<img height="95" style="border-radius:50%" src="https://reporoster.com/stars/Varun-Vikash/Varun-Vikash">
+
+##
